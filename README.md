@@ -20,7 +20,6 @@ A microservice-based platform that extracts, classifies, and interprets contract
 
 - ClausePilot: JUnit 5 + Mockito for clause extraction, regex logic, parser selection
 - HTTP Server: Manual and curl-based endpoint validation
-- 2PC/3PC: Failure simulations logged via console + trace files
 
 ---
 
@@ -32,17 +31,3 @@ This repo demonstrates:
 - Code readability + testability
 - Research-backed implementations (protocols, patterns, microservices)
 
----
-
-## 📬 Contact
-
-**Motupalli Sailohith**  
-Email: [your.email@example.com]  
-LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-GitHub: [github.com/Motupallisailohith](https://github.com/Motupallisailohith)
-
----
-
-## 📄 License
-
-This repository is licensed under the CC License.
