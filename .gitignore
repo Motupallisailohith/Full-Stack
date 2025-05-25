@@ -1,0 +1,7 @@
+*.json
+*.key
+.env
+*.jar
+target/
+.idea/
+*.iml
